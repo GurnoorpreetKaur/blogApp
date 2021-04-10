@@ -1,7 +1,12 @@
 # BlogApp
 
 > Create blogs
+
+## Demo
 [![Demo](demo.gif)]
+
+## Database
+[![database](db.jpg)]
 
 ## Technology
 This app uses Node.js/Express/MongoDB/Passport.js with Google OAuth for authentication
@@ -21,3 +26,5 @@ npm run dev
 npm start
 ```
 @http://projects.adsingh.net/
+
+
