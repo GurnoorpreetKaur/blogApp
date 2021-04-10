@@ -11,6 +11,9 @@ This app uses Node.js/Express/MongoDB/Passport.js with Google OAuth for authenti
 Add your mongoDB URI and Google OAuth credentials to the config.env file
 
 ```
+# Install dependencies
+npm install
+
 # Run in development
 npm run dev
 
