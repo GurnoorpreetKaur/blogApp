@@ -21,5 +21,3 @@ npm run dev
 npm start
 ```
 @http://projects.adsingh.net/
-
-
